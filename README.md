@@ -20,3 +20,5 @@ Run `npm run webpack-production` to build the production JS.
 Run `npm run test`.
 
 ## More text would be required!!!
+
+Now it will run .Net build 
